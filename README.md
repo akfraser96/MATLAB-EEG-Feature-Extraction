@@ -4,4 +4,4 @@ I have collected data from university students performing aircraft flight simula
 Participants wore an Emotiv Epoc electroencephalography (EEG) headset to monitor neural activity. The difficulty of the 
 flight task was manipulated. The purpose of these analyses are to evaluate if there is an association between the EEG data 
 and flight difficulty. 
-The analysis can be viewed here: https://matlab.mathworks.com/users/mwa0000015829047/Published/html2/feature_selection.html
+The analysis can be viewed here: https://akfraser96.github.io/website/
